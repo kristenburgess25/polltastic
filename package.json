@@ -1,0 +1,19 @@
+{
+  "name": "polltastic",
+  "version": "1.0.0",
+  "description": "A simple app for creating and issuing quick polls that require login before casting vote.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristenburgess25/polltastic.git"
+  },
+  "author": "Kristen Burgess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kristenburgess25/polltastic/issues"
+  },
+  "homepage": "https://github.com/kristenburgess25/polltastic#readme"
+}
